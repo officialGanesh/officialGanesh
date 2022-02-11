@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blog app**
+- 🔭 I’m currently working on **Clone App's**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Next js and Tailwindcss**
 
 - 💬 Ask me about **python, javascript, MERN Stack and firebase**
 
