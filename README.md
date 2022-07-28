@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialganesh&label=Profile%20views&color=0e75b6&style=flat" alt="officialganesh" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Clone App's**
 
-- 🌱 I’m currently learning **Next js and Tailwindcss**
+- 🌱 I’m currently learning **Nest js anf Typescript**
 
 - 💬 Ask me about **python, javascript, MERN Stack and firebase**
 
